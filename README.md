@@ -6,6 +6,6 @@
 <p>Já responsisivo!</p>
 <br>
 
-<img src="https://github.com/diegodev37/Menu-Linkes-Sociais/blob/master/img/foto-readme_Easy-Resize.com.jpg?raw=true">
+<img src="https://github.com/diegodev37/Menu-Linkes-Sociais/blob/master/img/foto-readme_Easy-Resize.com.jpg?raw=true" width="200px">
 <br>
 
