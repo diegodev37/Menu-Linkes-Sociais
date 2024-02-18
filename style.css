@@ -83,7 +83,7 @@ a {
     background-color: hsl(75, 94%, 57%);
 }
 
-@media (max-width:500px) {
+@media (max-width:600px) {
     p {
         margin: 15px 0px;
     }
@@ -103,7 +103,8 @@ a {
     main {
         height: 520px;
         width: 250px;
-        margin: 56px 21px;
+        margin: 56px 150px;
+        
 
     }
 
