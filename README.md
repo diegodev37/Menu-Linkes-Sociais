@@ -6,6 +6,6 @@
 <p>Já responsisivo!</p>
 <br>
 
-<img src="https://github.com/diegodev37/Desafio_CSS_Dev_Club_DBZ/blob/main/img/capa%20para%20o%20readme.dbz_Easy-Resize.com.jpg?raw=true">
+<img src="https://github.com/diegodev37/Menu-Linkes-Sociais/blob/master/img/foto-readme_Easy-Resize.com.jpg?raw=true">
 <br>
 https://diegodev37.github.io/Desafio_CSS_Dev_Club_DBZ/
