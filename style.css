@@ -1,0 +1,110 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+body {
+    background-color: hsl(0, 0%, 8%);
+}
+
+main {
+    width: 300px;
+    height: 500px;
+    background-color: hsl(0, 0%, 12%);
+    display: inline-block;
+    border-radius: 15px;
+    margin-left: 40%;
+    margin-top: 50px;
+
+}
+
+img {
+    width: 80px;
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    position: static;
+    margin-top: 30px;
+    margin-left: 37%;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    font-weight: 400;
+
+}
+
+h2 {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 5px;
+    color: hsl(75, 94%, 57%);
+    font-weight: 400;
+
+}
+
+p {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(253, 253, 253);
+    font-weight: 400;
+
+}
+
+a {
+    margin-top: 10px;
+}
+
+.button {
+    text-decoration: none;
+    display: block;
+    align-items: center;
+    padding: 10px;
+    margin-left: 40px;
+    font-size: 14px;
+    border: solid none;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    font-weight: 400;
+    text-align: center;
+    margin-right: 40px;
+    color: white;
+
+}
+
+.button:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+@media (max-width:800px) {
+    p {
+        margin: 15px 0px;
+    }
+    img {
+        margin-left: 84px;
+        margin-right: 84px;
+        margin-bottom: 10px;
+    }
+    .button {
+        width: 230px;
+        position: relative;
+        margin: 13px 10px;
+        padding: 12px;
+
+    }
+
+    main {
+        height: 520px;
+        width: 250px;
+        margin: 56px 21px;
+
+    }
+
+}
